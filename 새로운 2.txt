@@ -28,4 +28,22 @@ form   중요한양식
 	기본값을 지정하는 속성-value (값을 지정하는 속성)
 	
 	radio,checkbox -> 값을 속성하는 속성 checked
-	select에서 값을 선택하는 속성 ->selected
+	select에서 값을 선택하는 속성 ->selected (option 태그에 정의)
+	
+	textarea 
+	-rows -박스의 크기 영역을 몇줄 만큼 늘릴 것인지
+	-cols -영역을 몇칸 만큼 늘리 것인지
+	
+	input
+	  type=버튼 관련 타입
+	  submit(양식제출)button(일반버튼)reset(양식 취소)
+	
+http://github.com//youggyo1981
+
+
+
+
+
+hmtl2
+	
+	회원가입 양식
